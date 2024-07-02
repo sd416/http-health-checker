@@ -11,7 +11,7 @@ A simple shell script to check the status of the URLs mentioned in the files.
 2. Run the script with the filename as an argument:
 
 ```bash
-./health-script.sh urls.txt
+./health-checker.sh urls.txt
 ```
 
 # Notes
