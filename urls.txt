@@ -1,0 +1,5 @@
+https://www.google.com
+google.com
+yahoo.com
+www.yahoo.in
+localhost
